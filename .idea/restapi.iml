@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ra_articles/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/ra_articles/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/ra_articles/vendor/dragonmantank/cron-expression" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

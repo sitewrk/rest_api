@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/ra_articles/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/composer" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/ra_articles/vendor/dragonmantank/cron-expression" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/ra_articles/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
